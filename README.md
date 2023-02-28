@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalkadu&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalkadu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalkadu" alt="prajwalkadu" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science Technologies.**
 
 - 🌱 I’m currently learning **Deep Learning, OpenCV, NLP.**
